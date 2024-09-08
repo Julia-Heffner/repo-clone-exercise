@@ -10,7 +10,7 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 
 1. In your projects folder, clone this repo.
 2. Create a file called ```about.md``` and perform the tasks in it. As you progress, check off the tasks you've completed and ensure that you're committing the README changes as well. You can use the text editor of your choice like Notepad or VS Code for editing the files.
-3. Push the changes to you own repo.
+3. Push the changes to your own repo.
 
 ## Tasks
 - [ ] Create a first level heading with your name
