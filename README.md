@@ -13,9 +13,9 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 3. Push the changes to your own repo.
 
 ## Tasks
-- [ ] Create a first level heading with your name
-- [ ] Create a short "about you" text
-- [ ] Create a third level heading with the title "Hobbies"
+- [Y] Create a first level heading with your name
+- [Y] Create a short "about you" text
+- [Y] Create a third level heading with the title "Hobbies"
 - [ ] Under hobbies, create a bulleted or numbered list with some of your hobbies.
 - [ ] Add an image to your README
 - [ ] Add a link to a website
