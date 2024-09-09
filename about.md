@@ -1,6 +1,5 @@
 <h1> Julia Heffner </h1>
     <p> I am an environmental scientist. I love anything related to nature, and I am hoping to learn python to incorporate into my current field. </p>
-    ![Bio Photo](Bio_Photo.png)
 <h3> Hobbies </h3>
     <ul>
         <li> Nature </li>
@@ -16,3 +15,4 @@
              <li> Learning new skills such as coding... </li>
             </ul>
     </ul>
+    ![alt text](Bio_Photo.png)
