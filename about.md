@@ -1,5 +1,6 @@
 <h1> Julia Heffner </h1>
-![Bio Photo](Bio_Photo.png "Bio Photo")
+![Bio Photo](https://github.com/Julia-Heffner/repo-clone-exercise/blob/main/Bio_Photo.png "Bio Photo")
+Bio_Photo.png
     <p> I am an environmental scientist. I love anything related to nature, and I am hoping to learn python to incorporate into my current field. </p>
 <h3> Hobbies </h3>
     <ul>
