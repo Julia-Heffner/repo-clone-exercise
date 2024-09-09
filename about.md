@@ -1,6 +1,6 @@
 <h1> Julia Heffner </h1>
     <p> I am an environmental scientist. I love anything related to nature, and I am hoping to learn python to incorporate into my current field. </p>
-    [This is a link to my favorite native plant website prairienursery.com](https://www.prairienursery.com/)
+    [This is a link to my favorite native plant website prairienursery.com] (https://www.prairienursery.com/)
 <h3> Hobbies </h3>
     <ul>
         <li> Nature </li>
