@@ -1,6 +1,6 @@
 <h1> Julia Heffner </h1>
     <p> I am an environmental scientist. I love anything related to nature, and I am hoping to learn python to incorporate into my current field. </p>
-    ![Bio Photo](C:\Users\julia\Documents\Projects\Cloning_Practice\repo-clone-exercise\Bio_Photo.png)
+    ![Bio Photo](Bio_Photo.png)
 <h3> Hobbies </h3>
     <ul>
         <li> Nature </li>
