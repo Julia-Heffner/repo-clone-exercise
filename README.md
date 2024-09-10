@@ -18,7 +18,6 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 - [X] Create a third level heading with the title "Hobbies"
 - [X] Under hobbies, create a bulleted or numbered list with some of your hobbies.
 - [X] Add an image to your README
-![alt text](Bio_Photo.png)
 - [ ] Add a link to a website
 
 ### Taking it further
